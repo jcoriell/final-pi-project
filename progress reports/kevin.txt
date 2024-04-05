@@ -1,0 +1,11 @@
+
+24.04.05
+Created the git repo.
+Met with group to discuss roles for next week.
+
+24.04.12
+Started the currency duplicator feature.
+
+24.04.19
+Finished the currency duplicator feature.
+Processed the pull requests for reticulating splines and laplace transforms.

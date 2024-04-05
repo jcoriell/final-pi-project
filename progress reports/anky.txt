@@ -1,0 +1,12 @@
+
+
+23.04.05
+Cloned the git repository for the project.
+Met with group to discuss roles for next week.
+
+23.04.12
+Started the laplace transforms feature.
+
+23.04.19
+Finished the laplace transforms feature.
+Made pull request to Kevin to merge transofrms feature into main.
